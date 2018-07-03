@@ -1,0 +1,411 @@
+enter 'help' for commands
+enter 'help' for commands
+enter 'help' for commands
+UserMode
+enter 'help' for commands
+Enter id enter 'help' for commands
+enter 'help' for commands
+[null, (29,36 | 29 | Pay for all student textbooks.
+), (27,45 | 27 | Require all athletic uniforms to be Nike
+), (27,24 | 28 | Gardens on Campus to Promote Wildlife/Sustainability: Produce Fruit/Vegetables for Dining
+), (20,33 | 20 | Hire world class chefs for harris.
+), (26,42 | 26 | Send entire student body to colonize Mars.
+), (17,20 | 17 | Complete Renovation of Ice Hockey Arena: New Ice Surface/Locker Rooms/Snack Bar
+), (21,29 | 21 | On-Campus Food Delivery Service: Service to Deliver Cro/Harris Meals to Dormitories
+), (15,11 | 15 | Blaustein Renovation : Renovate building so it all looks the same
+), (17,34 | 17 | Double the amount of cooking equipment in harris.
+), (25,39 | 25 | Encourage clean fitness in the student body.
+), (22,43 | 22 | Replace campus safety cars with Teslas.
+), (14,10 | 14 | Expand Harris: Make the Harris space bigger to fit more people
+), (16,25 | 16 | Vending/Snack Machines in Dormitory Buildings: Snacks/Drinks
+), (10,57 | 10 | Show daily Owen Wilson movie screenings on campus
+), (19,23 | 19 | Crozier Williams Update: Modernize for Student Engagement and Activities
+), (10,63 | 10 | Invite Nirvana to play on campus
+), (13,18 | 13 | Update of Varsity Locker Rooms: Redo Current Locker Room Spaces
+), (15,72 | 15 | Host a concert on campus
+), (12,77 | 12 | Extend the transportation that the campus provides Thursday through Sunday to be all week.
+), (14,79 | 14 | Provide more events on campus.
+), (21,86 | 21 | Build a donut shop on campus
+), (18,44 | 18 | Make astronomy a general education requirement.
+), (6,98 | 6 | Test Idea
+), (10,48 | 10 | No classes on Fridays
+), (10,2 | 10 | Ridges and Winches: Update housing at the Ridges and Winches
+), (10,51 | 10 | Change names of Camels to Rockets
+), (8,26 | 8 | Starbucks On-Campus Location: Service of Starbucks in Coffee Shop
+), (5,55 | 5 | Host a fashion show concert mixture every week
+), (9,14 | 9 | Air Conditioning: Install air conditioning in all of the academic buildings
+), (10,60 | 10 | Build dojo on campus
+), (6,61 | 6 | Film Bruce Lee movie at Conn
+), (7,64 | 7 | Organise a concert
+), (9,65 | 9 | Organise a fundraiser with Nirvana
+), (5,15 | 5 | Campus-Wide Air Conditioning: AC in ALL Dormitories
+), (10,69 | 10 | require all students to take physics on campus
+), (13,35 | 13 | Increase quality of sandwiches at Cro Grab-N-Go.
+), (9,16 | 9 | Field Hockey Astro-Turf Field: New Field For Athletes
+), (6,4 | 6 | Student Parking: Fix gravel, north, and south parking lots
+), (7,76 | 7 | Add air conditioning units to the dorms that don't have them.
+), (13,9 | 13 | Turf Renovation: Redo the turf at the athletic center
+), (12,8 | 12 | Cro Renovation: Update aesthetics of Cro
+), (9,83 | 9 | Bring more animals to visit
+), (19,40 | 19 | Install a baseball/softball field on campus.
+), (11,21 | 11 | Campus Sidewalks/Walkways: Renovate Sidewalks/Add Additional Walkways for Pedestrians
+), (16,89 | 16 | No more essays
+), (3,22 | 3 | Renovation of Dining Hall Options: Additional Options/Later Hours
+), (6,46 | 6 | Give every player on the basketball team Lebron Nike shoes
+), (6,96 | 6 | Music Department Facility:Upgrade and renew musical facilities
+), (7,97 | 7 | Dorm Improvement:Upgrade the facilities in the dorm
+), (8,49 | 8 | Have a concert every Friday
+), (1,50 | 1 | Only let people eat out at T.G.I Fridays
+), (1,12 | 1 | Renovate Bathrooms: Update bathrooms around campus
+), (5,52 | 5 | Only allow Adidas on campus
+), (4,53 | 4 | Force everyone to either grow or wear a fake beard
+), (5,54 | 5 | Give everyone in school Yeezy's
+), (2,6 | 2 | Freshman Orientation: Make freshman orientation shorter
+), (1,56 | 1 | Only let people talk in rap form
+), (6,28 | 6 | Additional Visualization Wall Surfaces in Basement of Library: More Visualization Walls for C.S.
+), (8,58 | 8 | Allow Vince Vaughn to be President of the college
+), (5,59 | 5 | Only let people say "wow" to communicate with each other
+), (8,13 | 8 | Campus Safety: Hire nicer campus safety guys
+), (1,30 | 1 | Build a full outdoor basketball court.
+), (4,62 | 4 | Build barber shop on campus
+), (2,31 | 2 | Buy all new gear for the basketball teams.
+), (3,0 | 3 | Larrabee Renovation: Renovate the dorm to look like the other dorms on campus
+), (3,32 | 3 | Double the amount of basketball courts at the AC.
+), (9,66 | 9 | Allow only Apple products on campus
+), (5,67 | 5 | Allow only apples for meals
+), (3,68 | 3 | Allow only apple trees on campus
+), (7,7 | 7 | Dinning Hall Menu: Create a new menu for Harris
+), (9,70 | 9 | build a particle accelerator for research
+), (2,17 | 2 | Paving of Gravel Parking Lot: Pave over Gravel
+), (3,71 | 3 | name a building after me
+), (4,73 | 4 | Require all students to play “Not Afraid” in the morning
+), (2,74 | 2 | Require all students to participate in daily rap battles
+), (3,37 | 3 | Buy a new Keurig for physics lounge.
+), (4,75 | 4 | Add water fountains to all dorms on campus.
+), (5,38 | 5 | Pay Neil deGrasse Tyson for a guest lecture.
+), (3,78 | 3 | Find someway to make it rain less in Spring.
+), (4,19 | 4 | Addition of Varsity Weight Room in Athletic Center: Create New Weight Room just for Athletes
+), (2,80 | 2 | Cancel all finals
+), (3,81 | 3 | Keep the grass short
+), (5,82 | 5 | Change school color to purple
+), (4,3 | 4 | Pavement of roads: Repave roads on campus
+), (7,84 | 7 | Add a zoo onto the Arbo
+), (11,85 | 11 | Make the library bigger
+), (13,41 | 13 | Create a program dedicated to the dangers of PEDs.
+), (6,87 | 6 | Allow students to have pets on campus
+), (8,88 | 8 | Add an outdoor pool to the Athletic Center
+), (11,5 | 11 | Locker Rooms: Update locker room spaces at the Athletic Center
+), (1,90 | 1 | Dinning Imrpovement:Hire good cook
+), (2,91 | 2 | Network Upgrade:Upgrade network bandwidth
+), (3,92 | 3 | Gym Rebuild:Expand the gym
+), (3,93 | 3 | Academic Improvement:Add more couses to the couses catalog
+), (4,94 | 4 | Student Life Accessibility:Build animal allowed dorm which can improve student's residential experience
+), (5,95 | 5 | Parking:Create more parking lots for students
+), (5,47 | 5 | Increase the length of beds to fit very tall people
+), (5,1 | 5 | Desks in Fanning: Buy new desks to put in the classrooms in Fanning
+)]
+enter 'help' for commands
+[null, (27,45 | 27 | Require all athletic uniforms to be Nike
+), (26,42 | 26 | Send entire student body to colonize Mars.
+), (27,24 | 28 | Gardens on Campus to Promote Wildlife/Sustainability: Produce Fruit/Vegetables for Dining
+), (20,33 | 20 | Hire world class chefs for harris.
+), (25,39 | 25 | Encourage clean fitness in the student body.
+), (17,20 | 17 | Complete Renovation of Ice Hockey Arena: New Ice Surface/Locker Rooms/Snack Bar
+), (21,29 | 21 | On-Campus Food Delivery Service: Service to Deliver Cro/Harris Meals to Dormitories
+), (15,11 | 15 | Blaustein Renovation : Renovate building so it all looks the same
+), (17,34 | 17 | Double the amount of cooking equipment in harris.
+), (21,86 | 21 | Build a donut shop on campus
+), (22,43 | 22 | Replace campus safety cars with Teslas.
+), (14,10 | 14 | Expand Harris: Make the Harris space bigger to fit more people
+), (16,25 | 16 | Vending/Snack Machines in Dormitory Buildings: Snacks/Drinks
+), (10,57 | 10 | Show daily Owen Wilson movie screenings on campus
+), (19,23 | 19 | Crozier Williams Update: Modernize for Student Engagement and Activities
+), (10,63 | 10 | Invite Nirvana to play on campus
+), (13,18 | 13 | Update of Varsity Locker Rooms: Redo Current Locker Room Spaces
+), (15,72 | 15 | Host a concert on campus
+), (12,77 | 12 | Extend the transportation that the campus provides Thursday through Sunday to be all week.
+), (14,79 | 14 | Provide more events on campus.
+), (19,40 | 19 | Install a baseball/softball field on campus.
+), (18,44 | 18 | Make astronomy a general education requirement.
+), (6,98 | 6 | Test Idea
+), (10,48 | 10 | No classes on Fridays
+), (10,2 | 10 | Ridges and Winches: Update housing at the Ridges and Winches
+), (10,51 | 10 | Change names of Camels to Rockets
+), (8,26 | 8 | Starbucks On-Campus Location: Service of Starbucks in Coffee Shop
+), (5,55 | 5 | Host a fashion show concert mixture every week
+), (9,14 | 9 | Air Conditioning: Install air conditioning in all of the academic buildings
+), (10,60 | 10 | Build dojo on campus
+), (6,61 | 6 | Film Bruce Lee movie at Conn
+), (7,64 | 7 | Organise a concert
+), (9,65 | 9 | Organise a fundraiser with Nirvana
+), (5,15 | 5 | Campus-Wide Air Conditioning: AC in ALL Dormitories
+), (10,69 | 10 | require all students to take physics on campus
+), (13,35 | 13 | Increase quality of sandwiches at Cro Grab-N-Go.
+), (9,16 | 9 | Field Hockey Astro-Turf Field: New Field For Athletes
+), (6,4 | 6 | Student Parking: Fix gravel, north, and south parking lots
+), (7,76 | 7 | Add air conditioning units to the dorms that don't have them.
+), (13,9 | 13 | Turf Renovation: Redo the turf at the athletic center
+), (12,8 | 12 | Cro Renovation: Update aesthetics of Cro
+), (9,83 | 9 | Bring more animals to visit
+), (13,41 | 13 | Create a program dedicated to the dangers of PEDs.
+), (11,21 | 11 | Campus Sidewalks/Walkways: Renovate Sidewalks/Add Additional Walkways for Pedestrians
+), (16,89 | 16 | No more essays
+), (3,22 | 3 | Renovation of Dining Hall Options: Additional Options/Later Hours
+), (6,46 | 6 | Give every player on the basketball team Lebron Nike shoes
+), (6,96 | 6 | Music Department Facility:Upgrade and renew musical facilities
+), (7,97 | 7 | Dorm Improvement:Upgrade the facilities in the dorm
+), (8,49 | 8 | Have a concert every Friday
+), (1,50 | 1 | Only let people eat out at T.G.I Fridays
+), (1,12 | 1 | Renovate Bathrooms: Update bathrooms around campus
+), (5,52 | 5 | Only allow Adidas on campus
+), (4,53 | 4 | Force everyone to either grow or wear a fake beard
+), (5,54 | 5 | Give everyone in school Yeezy's
+), (2,6 | 2 | Freshman Orientation: Make freshman orientation shorter
+), (1,56 | 1 | Only let people talk in rap form
+), (6,28 | 6 | Additional Visualization Wall Surfaces in Basement of Library: More Visualization Walls for C.S.
+), (8,58 | 8 | Allow Vince Vaughn to be President of the college
+), (5,59 | 5 | Only let people say "wow" to communicate with each other
+), (8,13 | 8 | Campus Safety: Hire nicer campus safety guys
+), (1,30 | 1 | Build a full outdoor basketball court.
+), (4,62 | 4 | Build barber shop on campus
+), (2,31 | 2 | Buy all new gear for the basketball teams.
+), (3,0 | 3 | Larrabee Renovation: Renovate the dorm to look like the other dorms on campus
+), (3,32 | 3 | Double the amount of basketball courts at the AC.
+), (9,66 | 9 | Allow only Apple products on campus
+), (5,67 | 5 | Allow only apples for meals
+), (3,68 | 3 | Allow only apple trees on campus
+), (7,7 | 7 | Dinning Hall Menu: Create a new menu for Harris
+), (9,70 | 9 | build a particle accelerator for research
+), (2,17 | 2 | Paving of Gravel Parking Lot: Pave over Gravel
+), (3,71 | 3 | name a building after me
+), (4,73 | 4 | Require all students to play “Not Afraid” in the morning
+), (2,74 | 2 | Require all students to participate in daily rap battles
+), (3,37 | 3 | Buy a new Keurig for physics lounge.
+), (4,75 | 4 | Add water fountains to all dorms on campus.
+), (5,38 | 5 | Pay Neil deGrasse Tyson for a guest lecture.
+), (3,78 | 3 | Find someway to make it rain less in Spring.
+), (4,19 | 4 | Addition of Varsity Weight Room in Athletic Center: Create New Weight Room just for Athletes
+), (2,80 | 2 | Cancel all finals
+), (3,81 | 3 | Keep the grass short
+), (5,82 | 5 | Change school color to purple
+), (4,3 | 4 | Pavement of roads: Repave roads on campus
+), (7,84 | 7 | Add a zoo onto the Arbo
+), (11,85 | 11 | Make the library bigger
+), (5,1 | 5 | Desks in Fanning: Buy new desks to put in the classrooms in Fanning
+), (6,87 | 6 | Allow students to have pets on campus
+), (8,88 | 8 | Add an outdoor pool to the Athletic Center
+), (11,5 | 11 | Locker Rooms: Update locker room spaces at the Athletic Center
+), (1,90 | 1 | Dinning Imrpovement:Hire good cook
+), (2,91 | 2 | Network Upgrade:Upgrade network bandwidth
+), (3,92 | 3 | Gym Rebuild:Expand the gym
+), (3,93 | 3 | Academic Improvement:Add more couses to the couses catalog
+), (4,94 | 4 | Student Life Accessibility:Build animal allowed dorm which can improve student's residential experience
+), (5,95 | 5 | Parking:Create more parking lots for students
+), (5,47 | 5 | Increase the length of beds to fit very tall people
+)]
+enter 'help' for commands
+[null, (27,24 | 28 | Gardens on Campus to Promote Wildlife/Sustainability: Produce Fruit/Vegetables for Dining
+), (26,42 | 26 | Send entire student body to colonize Mars.
+), (21,29 | 21 | On-Campus Food Delivery Service: Service to Deliver Cro/Harris Meals to Dormitories
+), (20,33 | 20 | Hire world class chefs for harris.
+), (25,39 | 25 | Encourage clean fitness in the student body.
+), (17,20 | 17 | Complete Renovation of Ice Hockey Arena: New Ice Surface/Locker Rooms/Snack Bar
+), (19,23 | 19 | Crozier Williams Update: Modernize for Student Engagement and Activities
+), (15,11 | 15 | Blaustein Renovation : Renovate building so it all looks the same
+), (17,34 | 17 | Double the amount of cooking equipment in harris.
+), (21,86 | 21 | Build a donut shop on campus
+), (22,43 | 22 | Replace campus safety cars with Teslas.
+), (14,10 | 14 | Expand Harris: Make the Harris space bigger to fit more people
+), (16,25 | 16 | Vending/Snack Machines in Dormitory Buildings: Snacks/Drinks
+), (10,57 | 10 | Show daily Owen Wilson movie screenings on campus
+), (10,60 | 10 | Build dojo on campus
+), (10,63 | 10 | Invite Nirvana to play on campus
+), (13,18 | 13 | Update of Varsity Locker Rooms: Redo Current Locker Room Spaces
+), (15,72 | 15 | Host a concert on campus
+), (12,77 | 12 | Extend the transportation that the campus provides Thursday through Sunday to be all week.
+), (14,79 | 14 | Provide more events on campus.
+), (19,40 | 19 | Install a baseball/softball field on campus.
+), (18,44 | 18 | Make astronomy a general education requirement.
+), (6,98 | 6 | Test Idea
+), (10,48 | 10 | No classes on Fridays
+), (10,2 | 10 | Ridges and Winches: Update housing at the Ridges and Winches
+), (10,51 | 10 | Change names of Camels to Rockets
+), (8,26 | 8 | Starbucks On-Campus Location: Service of Starbucks in Coffee Shop
+), (5,55 | 5 | Host a fashion show concert mixture every week
+), (9,14 | 9 | Air Conditioning: Install air conditioning in all of the academic buildings
+), (8,13 | 8 | Campus Safety: Hire nicer campus safety guys
+), (6,61 | 6 | Film Bruce Lee movie at Conn
+), (7,64 | 7 | Organise a concert
+), (9,65 | 9 | Organise a fundraiser with Nirvana
+), (5,15 | 5 | Campus-Wide Air Conditioning: AC in ALL Dormitories
+), (10,69 | 10 | require all students to take physics on campus
+), (13,35 | 13 | Increase quality of sandwiches at Cro Grab-N-Go.
+), (9,16 | 9 | Field Hockey Astro-Turf Field: New Field For Athletes
+), (6,4 | 6 | Student Parking: Fix gravel, north, and south parking lots
+), (7,76 | 7 | Add air conditioning units to the dorms that don't have them.
+), (13,9 | 13 | Turf Renovation: Redo the turf at the athletic center
+), (12,8 | 12 | Cro Renovation: Update aesthetics of Cro
+), (9,83 | 9 | Bring more animals to visit
+), (13,41 | 13 | Create a program dedicated to the dangers of PEDs.
+), (11,21 | 11 | Campus Sidewalks/Walkways: Renovate Sidewalks/Add Additional Walkways for Pedestrians
+), (16,89 | 16 | No more essays
+), (3,22 | 3 | Renovation of Dining Hall Options: Additional Options/Later Hours
+), (6,46 | 6 | Give every player on the basketball team Lebron Nike shoes
+), (6,96 | 6 | Music Department Facility:Upgrade and renew musical facilities
+), (7,97 | 7 | Dorm Improvement:Upgrade the facilities in the dorm
+), (8,49 | 8 | Have a concert every Friday
+), (1,50 | 1 | Only let people eat out at T.G.I Fridays
+), (1,12 | 1 | Renovate Bathrooms: Update bathrooms around campus
+), (5,52 | 5 | Only allow Adidas on campus
+), (4,53 | 4 | Force everyone to either grow or wear a fake beard
+), (5,54 | 5 | Give everyone in school Yeezy's
+), (2,6 | 2 | Freshman Orientation: Make freshman orientation shorter
+), (1,56 | 1 | Only let people talk in rap form
+), (6,28 | 6 | Additional Visualization Wall Surfaces in Basement of Library: More Visualization Walls for C.S.
+), (8,58 | 8 | Allow Vince Vaughn to be President of the college
+), (5,59 | 5 | Only let people say "wow" to communicate with each other
+), (5,47 | 5 | Increase the length of beds to fit very tall people
+), (1,30 | 1 | Build a full outdoor basketball court.
+), (4,62 | 4 | Build barber shop on campus
+), (2,31 | 2 | Buy all new gear for the basketball teams.
+), (3,0 | 3 | Larrabee Renovation: Renovate the dorm to look like the other dorms on campus
+), (3,32 | 3 | Double the amount of basketball courts at the AC.
+), (9,66 | 9 | Allow only Apple products on campus
+), (5,67 | 5 | Allow only apples for meals
+), (3,68 | 3 | Allow only apple trees on campus
+), (7,7 | 7 | Dinning Hall Menu: Create a new menu for Harris
+), (9,70 | 9 | build a particle accelerator for research
+), (2,17 | 2 | Paving of Gravel Parking Lot: Pave over Gravel
+), (3,71 | 3 | name a building after me
+), (4,73 | 4 | Require all students to play “Not Afraid” in the morning
+), (2,74 | 2 | Require all students to participate in daily rap battles
+), (3,37 | 3 | Buy a new Keurig for physics lounge.
+), (4,75 | 4 | Add water fountains to all dorms on campus.
+), (5,38 | 5 | Pay Neil deGrasse Tyson for a guest lecture.
+), (3,78 | 3 | Find someway to make it rain less in Spring.
+), (4,19 | 4 | Addition of Varsity Weight Room in Athletic Center: Create New Weight Room just for Athletes
+), (2,80 | 2 | Cancel all finals
+), (3,81 | 3 | Keep the grass short
+), (5,82 | 5 | Change school color to purple
+), (4,3 | 4 | Pavement of roads: Repave roads on campus
+), (7,84 | 7 | Add a zoo onto the Arbo
+), (11,85 | 11 | Make the library bigger
+), (5,1 | 5 | Desks in Fanning: Buy new desks to put in the classrooms in Fanning
+), (6,87 | 6 | Allow students to have pets on campus
+), (8,88 | 8 | Add an outdoor pool to the Athletic Center
+), (11,5 | 11 | Locker Rooms: Update locker room spaces at the Athletic Center
+), (1,90 | 1 | Dinning Imrpovement:Hire good cook
+), (2,91 | 2 | Network Upgrade:Upgrade network bandwidth
+), (3,92 | 3 | Gym Rebuild:Expand the gym
+), (3,93 | 3 | Academic Improvement:Add more couses to the couses catalog
+), (4,94 | 4 | Student Life Accessibility:Build animal allowed dorm which can improve student's residential experience
+), (5,95 | 5 | Parking:Create more parking lots for students
+)]
+enter 'help' for commands
+[null, (26,42 | 26 | Send entire student body to colonize Mars.
+), (25,39 | 25 | Encourage clean fitness in the student body.
+), (21,29 | 21 | On-Campus Food Delivery Service: Service to Deliver Cro/Harris Meals to Dormitories
+), (20,33 | 20 | Hire world class chefs for harris.
+), (22,43 | 22 | Replace campus safety cars with Teslas.
+), (17,20 | 17 | Complete Renovation of Ice Hockey Arena: New Ice Surface/Locker Rooms/Snack Bar
+), (19,23 | 19 | Crozier Williams Update: Modernize for Student Engagement and Activities
+), (15,11 | 15 | Blaustein Renovation : Renovate building so it all looks the same
+), (17,34 | 17 | Double the amount of cooking equipment in harris.
+), (21,86 | 21 | Build a donut shop on campus
+), (18,44 | 18 | Make astronomy a general education requirement.
+), (14,10 | 14 | Expand Harris: Make the Harris space bigger to fit more people
+), (16,25 | 16 | Vending/Snack Machines in Dormitory Buildings: Snacks/Drinks
+), (10,57 | 10 | Show daily Owen Wilson movie screenings on campus
+), (10,60 | 10 | Build dojo on campus
+), (10,63 | 10 | Invite Nirvana to play on campus
+), (13,18 | 13 | Update of Varsity Locker Rooms: Redo Current Locker Room Spaces
+), (15,72 | 15 | Host a concert on campus
+), (12,77 | 12 | Extend the transportation that the campus provides Thursday through Sunday to be all week.
+), (14,79 | 14 | Provide more events on campus.
+), (19,40 | 19 | Install a baseball/softball field on campus.
+), (16,89 | 16 | No more essays
+), (6,98 | 6 | Test Idea
+), (10,48 | 10 | No classes on Fridays
+), (10,2 | 10 | Ridges and Winches: Update housing at the Ridges and Winches
+), (10,51 | 10 | Change names of Camels to Rockets
+), (8,26 | 8 | Starbucks On-Campus Location: Service of Starbucks in Coffee Shop
+), (5,55 | 5 | Host a fashion show concert mixture every week
+), (9,14 | 9 | Air Conditioning: Install air conditioning in all of the academic buildings
+), (8,13 | 8 | Campus Safety: Hire nicer campus safety guys
+), (6,61 | 6 | Film Bruce Lee movie at Conn
+), (7,64 | 7 | Organise a concert
+), (9,65 | 9 | Organise a fundraiser with Nirvana
+), (5,15 | 5 | Campus-Wide Air Conditioning: AC in ALL Dormitories
+), (10,69 | 10 | require all students to take physics on campus
+), (13,35 | 13 | Increase quality of sandwiches at Cro Grab-N-Go.
+), (9,16 | 9 | Field Hockey Astro-Turf Field: New Field For Athletes
+), (6,4 | 6 | Student Parking: Fix gravel, north, and south parking lots
+), (7,76 | 7 | Add air conditioning units to the dorms that don't have them.
+), (13,9 | 13 | Turf Renovation: Redo the turf at the athletic center
+), (12,8 | 12 | Cro Renovation: Update aesthetics of Cro
+), (9,83 | 9 | Bring more animals to visit
+), (13,41 | 13 | Create a program dedicated to the dangers of PEDs.
+), (11,21 | 11 | Campus Sidewalks/Walkways: Renovate Sidewalks/Add Additional Walkways for Pedestrians
+), (11,5 | 11 | Locker Rooms: Update locker room spaces at the Athletic Center
+), (3,22 | 3 | Renovation of Dining Hall Options: Additional Options/Later Hours
+), (6,46 | 6 | Give every player on the basketball team Lebron Nike shoes
+), (6,96 | 6 | Music Department Facility:Upgrade and renew musical facilities
+), (7,97 | 7 | Dorm Improvement:Upgrade the facilities in the dorm
+), (8,49 | 8 | Have a concert every Friday
+), (1,50 | 1 | Only let people eat out at T.G.I Fridays
+), (1,12 | 1 | Renovate Bathrooms: Update bathrooms around campus
+), (5,52 | 5 | Only allow Adidas on campus
+), (4,53 | 4 | Force everyone to either grow or wear a fake beard
+), (5,54 | 5 | Give everyone in school Yeezy's
+), (2,6 | 2 | Freshman Orientation: Make freshman orientation shorter
+), (1,56 | 1 | Only let people talk in rap form
+), (6,28 | 6 | Additional Visualization Wall Surfaces in Basement of Library: More Visualization Walls for C.S.
+), (8,58 | 8 | Allow Vince Vaughn to be President of the college
+), (5,59 | 5 | Only let people say "wow" to communicate with each other
+), (5,47 | 5 | Increase the length of beds to fit very tall people
+), (1,30 | 1 | Build a full outdoor basketball court.
+), (4,62 | 4 | Build barber shop on campus
+), (2,31 | 2 | Buy all new gear for the basketball teams.
+), (3,0 | 3 | Larrabee Renovation: Renovate the dorm to look like the other dorms on campus
+), (3,32 | 3 | Double the amount of basketball courts at the AC.
+), (9,66 | 9 | Allow only Apple products on campus
+), (5,67 | 5 | Allow only apples for meals
+), (3,68 | 3 | Allow only apple trees on campus
+), (7,7 | 7 | Dinning Hall Menu: Create a new menu for Harris
+), (9,70 | 9 | build a particle accelerator for research
+), (2,17 | 2 | Paving of Gravel Parking Lot: Pave over Gravel
+), (3,71 | 3 | name a building after me
+), (4,73 | 4 | Require all students to play “Not Afraid” in the morning
+), (2,74 | 2 | Require all students to participate in daily rap battles
+), (3,37 | 3 | Buy a new Keurig for physics lounge.
+), (4,75 | 4 | Add water fountains to all dorms on campus.
+), (5,38 | 5 | Pay Neil deGrasse Tyson for a guest lecture.
+), (3,78 | 3 | Find someway to make it rain less in Spring.
+), (4,19 | 4 | Addition of Varsity Weight Room in Athletic Center: Create New Weight Room just for Athletes
+), (2,80 | 2 | Cancel all finals
+), (3,81 | 3 | Keep the grass short
+), (5,82 | 5 | Change school color to purple
+), (4,3 | 4 | Pavement of roads: Repave roads on campus
+), (7,84 | 7 | Add a zoo onto the Arbo
+), (11,85 | 11 | Make the library bigger
+), (5,1 | 5 | Desks in Fanning: Buy new desks to put in the classrooms in Fanning
+), (6,87 | 6 | Allow students to have pets on campus
+), (8,88 | 8 | Add an outdoor pool to the Athletic Center
+), (5,95 | 5 | Parking:Create more parking lots for students
+), (1,90 | 1 | Dinning Imrpovement:Hire good cook
+), (2,91 | 2 | Network Upgrade:Upgrade network bandwidth
+), (3,92 | 3 | Gym Rebuild:Expand the gym
+), (3,93 | 3 | Academic Improvement:Add more couses to the couses catalog
+), (4,94 | 4 | Student Life Accessibility:Build animal allowed dorm which can improve student's residential experience
+)]
+enter 'help' for commands
+27 | 39 | New Building on Campus: Social Space with Suite-Style Dormitories
+
+36 | 29 | Pay for all student textbooks.
+
+45 | 27 | Require all athletic uniforms to be Nike
+
+24 | 28 | Gardens on Campus to Promote Wildlife/Sustainability: Produce Fruit/Vegetables for Dining
+
+
+enter 'help' for commands

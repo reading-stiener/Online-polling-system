@@ -1,0 +1,240 @@
+Kylie 
+Wilkes
+Kylie.Wilkes@conncoll.edu
+3 | Larrabee Renovation: Renovate the dorm to look like the other dorms on campus 
+5 | Desks in Fanning: Buy new desks to put in the classrooms in Fanning
+10 | Ridges and Winches: Update housing at the Ridges and Winches 
+
+Elizabeth 
+Cho
+Elizabeth.Cho@conncoll.edu
+4 | Pavement of roads: Repave roads on campus 
+6 | Student Parking: Fix gravel, north, and south parking lots 
+11 | Locker Rooms: Update locker room spaces at the Athletic Center
+
+Lauren 
+Helm
+Lauren.Helm@conncoll.edu
+2 | Freshman Orientation: Make freshman orientation shorter 
+7 | Dinning Hall Menu: Create a new menu for Harris
+12 | Cro Renovation: Update aesthetics of Cro
+
+Morgan 
+Wilkes
+Morgan.Wilkes@conncoll.edu
+13 | Turf Renovation: Redo the turf at the athletic center 
+14 | Expand Harris: Make the Harris space bigger to fit more people
+15 | Blaustein Renovation : Renovate building so it all looks the same 
+
+Madison 
+Wilkes	
+Madison.Wilkes@conncoll.edu
+1 | Renovate Bathrooms: Update bathrooms around campus
+8 | Campus Safety: Hire nicer campus safety guys 
+9 | Air Conditioning: Install air conditioning in all of the academic buildings
+
+John
+Doe
+jdoe@conncoll.edu
+5  |  Campus-Wide Air Conditioning: AC in ALL Dormitories
+9  |  Field Hockey Astro-Turf Field: New Field For Athletes
+2  |  Paving of Gravel Parking Lot: Pave over Gravel 
+
+Caroline
+McDonald
+cmcdonald@conncoll.edu
+13  |  Update of Varsity Locker Rooms: Redo Current Locker Room Spaces
+4  |  Addition of Varsity Weight Room in Athletic Center: Create New Weight Room just for Athletes
+17  |  Complete Renovation of Ice Hockey Arena: New Ice Surface/Locker Rooms/Snack Bar
+
+Ryan
+Phillips
+rphillips@conncoll.edu
+11  |  Campus Sidewalks/Walkways: Renovate Sidewalks/Add Additional Walkways for Pedestrians
+3  |  Renovation of Dining Hall Options: Additional Options/Later Hours
+19  |  Crozier Williams Update: Modernize for Student Engagement and Activities
+
+Abby
+Johnson
+ajohnson@conncoll.edu
+27  |  Gardens on Campus to Promote Wildlife/Sustainability: Produce Fruit/Vegetables for Dining
+16  |  Vending/Snack Machines in Dormitory Buildings: Snacks/Drinks
+8  |  Starbucks On-Campus Location: Service of Starbucks in Coffee Shop
+
+Sarah
+Stevens
+sstevens@conncoll.edu
+39  |  New Building on Campus: Social Space with Suite-Style Dormitories
+6  |  Additional Visualization Wall Surfaces in Basement of Library: More Visualization Walls for C.S.
+21  |  On-Campus Food Delivery Service: Service to Deliver Cro/Harris Meals to Dormitories
+
+Jaylen
+Brown
+jBrown1@conncoll.edu
+1 | Build a full outdoor basketball court.
+2 | Buy all new gear for the basketball teams.
+3 | Double the amount of basketball courts at the AC.
+
+Gordon 
+Ramsey
+gRamsey@conncoll.edu
+20 | Hire world class chefs for harris.
+17 | Double the amount of cooking equipment in harris.
+13 | Increase quality of sandwiches at Cro Grab-N-Go.
+
+Marie
+Curie
+mCurie@conncoll.edu
+29 | Pay for all student textbooks.
+3 | Buy a new Keurig for physics lounge.
+5 | Pay Neil deGrasse Tyson for a guest lecture.
+
+Barry 
+Bonds
+bBonds@conncoll.edu
+25 | Encourage clean fitness in the student body.
+19 | Install a baseball/softball field on campus.
+13 | Create a program dedicated to the dangers of PEDs.
+
+Elon 
+Musk
+eMusk@conncoll.edu
+26 | Send entire student body to colonize Mars.
+22 | Replace campus safety cars with Teslas.
+18 | Make astronomy a general education requirement.
+
+Lebron
+James
+Lebron.James@conncoll.edu
+27 | Require all athletic uniforms to be Nike
+6 | Give every player on the basketball team Lebron Nike shoes
+5 | Increase the length of beds to fit very tall people
+
+Rebecca
+Black
+Rebecca.Black@conncoll.edu
+10 | No classes on Fridays
+8 | Have a concert every Friday
+1 | Only let people eat out at T.G.I Fridays
+
+James
+Harden
+James.Harden@conncoll.edu
+10 | Change names of Camels to Rockets
+5 | Only allow Adidas on campus
+4 | Force everyone to either grow or wear a fake beard
+
+Kanye
+West
+Kanye.West@conncoll.edu
+5 | Give everyone in school Yeezy's
+5 | Host a fashion show concert mixture every week
+1 | Only let people talk in rap form
+
+Owen
+Wilson
+Owen.Wilson@conncoll.edu
+10 | Show daily Owen Wilson movie screenings on campus
+8 | Allow Vince Vaughn to be President of the college
+5 | Only let people say "wow" to communicate with each other
+
+Bruce
+Lee
+Bruce.Lee@conncoll.edu
+10 | Build dojo on campus
+6 | Film Bruce Lee movie at Conn
+4 | Build barber shop on campus
+
+Kurt 
+Cobain 
+Kurt.Cobain@conncoll.edu
+10 | Invite Nirvana to play on campus 
+7 | Organise a concert 
+9 | Organise a fundraiser with Nirvana 
+
+Steve
+Jobs
+Steve.Jobs@conncoll.edu
+9 | Allow only Apple products on campus
+5 | Allow only apples for meals
+3 | Allow only apple trees on campus
+
+Richard 
+Feynman 
+Richard.Feynman@conncoll.edu
+10 | require all students to take physics on campus
+9 | build a particle accelerator for research 
+3 | name a building after me 
+
+Marshall
+Mathers
+Marshall.Mathers@conncoll.edu
+15 | Host a concert on campus
+4 | Require all students to play “Not Afraid” in the morning
+2 | Require all students to participate in daily rap battles
+
+Elijah
+Smith
+ESmith@conncoll.edu
+4 | Add water fountains to all dorms on campus. 
+7 | Add air conditioning units to the dorms that don't have them.
+12 | Extend the transportation that the campus provides Thursday through Sunday to be all week. 
+
+Zand
+Myer
+ZMyer@conncoll.edu
+3 | Find someway to make it rain less in Spring.
+14 | Provide more events on campus.
+2 | Cancel all finals
+
+Violet
+Brown
+VBrown@conncoll.edu
+3 | Keep the grass short
+5 | Change school color to purple
+9 | Bring more animals to visit
+
+Reed
+Brooks
+RBrooks@conncoll.edu
+7 | Add a zoo onto the Arbo
+11 | Make the library bigger
+21 | Build a donut shop on campus
+
+Jill
+Jackal
+JJackal@conncoll.edu
+6 | Allow students to have pets on campus
+8 | Add an outdoor pool to the Athletic Center
+16 | No more essays
+
+Yukun
+Zhu
+yzhu1@conncoll.edu
+1|Dinning Imrpovement:Hire good cook
+2|Network Upgrade:Upgrade network bandwidth
+3|Gym Rebuild:Expand the gym
+
+Yanqing
+Yang
+yyang6@conncoll.edu
+3|Academic Improvement:Add more couses to the couses catalog
+4|Student Life Accessibility:Build animal allowed dorm which can improve student's residential experience
+
+
+Venezio
+Terranova
+vterranova@conncoll.edu
+5|Parking:Create more parking lots for students
+
+Ruicong
+Han
+rhan@conncoll.edu
+6|Music Department Facility:Upgrade and renew musical facilities
+
+Kazu
+Ebihara
+kebihara@conncoll.edu
+7|Dorm Improvement:Upgrade the facilities in the dorm
+6|Test Idea
+
