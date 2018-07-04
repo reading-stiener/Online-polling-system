@@ -6,7 +6,7 @@
  *
  * AdminMode class: Keeps track of methods for adminMode commands
  */
-
+// a little bit of modification 
 public class AdminMode{
 	private SinglyLinkedList <String> awardedIdeas = new SinglyLinkedList<String> (); 
 	
